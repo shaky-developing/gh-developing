@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gh-developing
 - 👀 I’m interested in Angular and C# .Net
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on I dont know yet
+- 🌱 I’m currently learning Python
 - 📫 How to reach me schachar.alon@gmail.com
 
 <!---
